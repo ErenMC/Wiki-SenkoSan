@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/image.png
+cover: .gitbook/assets/image (3).png
 coverY: 0
 ---
 

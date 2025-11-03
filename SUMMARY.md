@@ -20,13 +20,18 @@
 
 ## Уникальные предметы&#x20;
 
-* [🥴 Уникальные предметы](unikalnye-predmety/unikalnye-predmety/README.md)
-  * [Кастомные верёвки](unikalnye-predmety/unikalnye-predmety/kastomnye-veryovki.md)
-  * [BreweryX](unikalnye-predmety/unikalnye-predmety/breweryx.md)
-  * [Профиль игрока](unikalnye-predmety/unikalnye-predmety/profil-igroka.md)
-  * [Плюшевые игрушки](unikalnye-predmety/unikalnye-predmety/plyushevye-igrushki.md)
+* [🥴 Уникальные предметы и крафты](unikalnye-predmety/unikalnye-predmety-i-krafty/README.md)
+  * [Кастомные верёвки](unikalnye-predmety/unikalnye-predmety-i-krafty/kastomnye-veryovki.md)
+  * [BreweryX](unikalnye-predmety/unikalnye-predmety-i-krafty/breweryx.md)
+  * [Профиль игрока](unikalnye-predmety/unikalnye-predmety-i-krafty/profil-igroka.md)
+  * [Плюшевые игрушки](unikalnye-predmety/unikalnye-predmety-i-krafty/plyushevye-igrushki.md)
+  * [Обратный крафт плит](unikalnye-predmety/unikalnye-predmety-i-krafty/obratnyi-kraft-plit.md)
+  * [Невидимая рамка](unikalnye-predmety/unikalnye-predmety-i-krafty/nevidimaya-ramka.md)
+  * [Невидимый свет](unikalnye-predmety/unikalnye-predmety-i-krafty/nevidimyi-svet.md)
+  * [Головорез](unikalnye-predmety/unikalnye-predmety-i-krafty/golovorez.md)
 * [🤯 Изменение механики](unikalnye-predmety/izmenenie-mekhaniki/README.md)
   * [Обновления медных данжей](unikalnye-predmety/izmenenie-mekhaniki/obnovleniya-mednykh-danzhei.md)
+  * [Маленькие изменения](unikalnye-predmety/izmenenie-mekhaniki/malenkie-izmeneniya.md)
 
 ## Игровой процесс&#x20;
 
