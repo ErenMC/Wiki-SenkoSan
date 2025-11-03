@@ -18,6 +18,16 @@
 * [😅 Модификации](dopolneniya/modifikacii.md)
 * [😁 Ресурспак](dopolneniya/resurspak.md)
 
+## Уникальные предметы&#x20;
+
+* [🥴 Уникальные предметы](unikalnye-predmety/unikalnye-predmety/README.md)
+  * [Кастомные верёвки](unikalnye-predmety/unikalnye-predmety/kastomnye-veryovki.md)
+  * [BreweryX](unikalnye-predmety/unikalnye-predmety/breweryx.md)
+  * [Профиль игрока](unikalnye-predmety/unikalnye-predmety/profil-igroka.md)
+  * [Плюшевые игрушки](unikalnye-predmety/unikalnye-predmety/plyushevye-igrushki.md)
+* [🤯 Изменение механики](unikalnye-predmety/izmenenie-mekhaniki/README.md)
+  * [Обновления медных данжей](unikalnye-predmety/izmenenie-mekhaniki/obnovleniya-mednykh-danzhei.md)
+
 ## Игровой процесс&#x20;
 
 * [💖 РП (Role Play)](igrovoi-process/rp-role-play.md)
@@ -27,6 +37,14 @@
 
 * [🤝 Сторонние сервера ](sotrudnichestvo/storonnie-servera.md)
 * [🤝 Контент мейкерами](sotrudnichestvo/kontent-meikerami.md)
+
+## Донат
+
+* [💵 Донатус](donat/donatus.md)
+* [Донат услуги](donat/donat-uslugi/README.md)
+  * [Услуги](donat/donat-uslugi/uslugi.md)
+  * [Облики](donat/donat-uslugi/obliki.md)
+  * [Поддержка проекта](donat/donat-uslugi/podderzhka-proekta.md)
 
 ***
 
