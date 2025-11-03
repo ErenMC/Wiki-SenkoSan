@@ -11,6 +11,6 @@
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Работает почти со всеми плитами
 {% endhint %}

@@ -1,3 +1,5 @@
 # BreweryX
 
-## Всё ещё в разработке
+{% hint style="danger" %}
+Всё ещё в разработке
+{% endhint %}
