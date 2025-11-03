@@ -46,7 +46,10 @@
   * [Облики](donat/donat-uslugi/obliki.md)
   * [Поддержка проекта](donat/donat-uslugi/podderzhka-proekta.md)
 
+## О сервере
+
+* [🖥️ Немного о самом сервере](o-servere/nemnogo-o-samom-servere.md)
+
 ***
 
-* [🖥️ Немного о самом сервере](nemnogo-o-samom-servere.md)
 * [README](<README (1).md>)
