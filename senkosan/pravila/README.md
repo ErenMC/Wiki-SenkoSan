@@ -1,6 +1,6 @@
 ---
 description: Основные правила поведение
-cover: broken-reference
+cover: ../../.gitbook/assets/image.avif
 coverY: 0
 ---
 
