@@ -7,3 +7,6 @@
 **Читать внимательно и знать обязательно (Незнание правил может перевести снятию с персонала)**&#x20;
 {% endhint %}
 
+{% content-ref url="4.-povedenie-moderatorov-na-servere.md" %}
+[4.-povedenie-moderatorov-na-servere.md](4.-povedenie-moderatorov-na-servere.md)
+{% endcontent-ref %}
