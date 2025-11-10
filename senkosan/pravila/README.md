@@ -42,6 +42,6 @@ coverY: 0
 {% endcolumns %}
 
 {% hint style="info" %}
-Основные правила которые касаются всех и не только на игровом сервере но и в Discord
+Основные правила связаны с чатом minecraft и discord
 {% endhint %}
 
