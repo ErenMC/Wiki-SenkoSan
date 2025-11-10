@@ -3,7 +3,8 @@
 ## SenkoSan
 
 * [👋 Информация](README.md)
-* [🤓 Как начать играть?](senkosan/kak-nachat-igrat.md)
+* [🤓 Как начать играть?](senkosan/kak-nachat-igrat/README.md)
+  * [Для жителей Украины и иных стран где есть трудности заходом на сервере](senkosan/kak-nachat-igrat/dlya-zhitelei-ukrainy-i-inykh-stran-gde-est-trudnosti-zakhodom-na-servere.md)
 * [👺 Правила](senkosan/pravila/README.md)
   * [❤️ Правила сервера](senkosan/pravila/pravila-servera/README.md)
     * [📃 0. Основы](senkosan/pravila/pravila-servera/0.-osnovy.md)

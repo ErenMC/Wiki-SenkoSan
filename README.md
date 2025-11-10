@@ -23,4 +23,4 @@ coverY: 0
 
 
 
-## [Как начать играть?](senkosan/kak-nachat-igrat.md)
+## [Как начать играть?](senkosan/kak-nachat-igrat/)
