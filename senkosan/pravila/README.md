@@ -20,22 +20,14 @@ coverY: 0
 
 {% columns %}
 {% column width="50%" %}
-{% content-ref url="pravila-servera/0.-osnovy.md" %}
-[0.-osnovy.md](pravila-servera/0.-osnovy.md)
-{% endcontent-ref %}
-
-{% content-ref url="pravila-servera/2.-povedenie-na-server.md" %}
-[2.-povedenie-na-server.md](pravila-servera/2.-povedenie-na-server.md)
+{% content-ref url="pravila-servera/" %}
+[pravila-servera](pravila-servera/)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column width="50%" %}
-{% content-ref url="pravila-servera/1.-obshenie.md" %}
-[1.-obshenie.md](pravila-servera/1.-obshenie.md)
-{% endcontent-ref %}
-
-{% content-ref url="pravila-servera/3.-privat.md" %}
-[3.-privat.md](pravila-servera/3.-privat.md)
+{% content-ref url="pravila-personala/" %}
+[pravila-personala](pravila-personala/)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
