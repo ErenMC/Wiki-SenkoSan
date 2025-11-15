@@ -24,3 +24,6 @@
 {% endcolumn %}
 {% endcolumns %}
 
+{% content-ref url="golovorez.md" %}
+[golovorez.md](golovorez.md)
+{% endcontent-ref %}
