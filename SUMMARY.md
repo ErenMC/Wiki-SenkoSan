@@ -21,7 +21,7 @@
 
 ## Уникальные предметы&#x20;
 
-* [🥴 Уникальные предметы и крафты](unikalnye-predmety/unikalnye-predmety-i-krafty/README.md)
+* [🧩 Уникальные предметы и крафты](unikalnye-predmety/unikalnye-predmety-i-krafty/README.md)
   * [Профиль игрока](unikalnye-predmety/unikalnye-predmety-i-krafty/profil-igroka.md)
   * [Плюшевые игрушки](unikalnye-predmety/unikalnye-predmety-i-krafty/plyushevye-igrushki.md)
   * [Обратный крафт плит](unikalnye-predmety/unikalnye-predmety-i-krafty/obratnyi-kraft-plit.md)
