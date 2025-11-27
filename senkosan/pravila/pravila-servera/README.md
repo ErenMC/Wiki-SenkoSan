@@ -6,9 +6,13 @@ description: Правила ванильного сервера
 
 ## Правила поделены на категории, что позволит быстро по ним ориентироваться
 
-Их не так и много на самом деле
+{% hint style="danger" %}
+Знать и соблюдать (Незнание правил может перевести к бану)
+{% endhint %}
 
-
+{% hint style="warning" %}
+Основные правила связаны с чатом minecraft и discord
+{% endhint %}
 
 {% columns %}
 {% column width="50%" %}
@@ -31,12 +35,4 @@ description: Правила ванильного сервера
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
-
-{% hint style="info" %}
-Основные правила связаны с чатом minecraft и discord
-{% endhint %}
-
-{% hint style="info" %}
-Знать и соблюдать (Незнание правил может перевести к бану)
-{% endhint %}
 

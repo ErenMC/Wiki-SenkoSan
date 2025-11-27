@@ -18,6 +18,8 @@
 
 * [😅 Модификации](dopolneniya/modifikacii.md)
 * [😁 Ресурспак](dopolneniya/resurspak.md)
+* [✌️ История сервера](dopolneniya/istoriya-servera/README.md)
+  * [Начало](dopolneniya/istoriya-servera/nachalo.md)
 
 ## Уникальные предметы&#x20;
 
