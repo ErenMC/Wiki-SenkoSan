@@ -9,19 +9,19 @@
   * [❤️ Правила сервера](senkosan/pravila/pravila-servera/README.md)
     * [📃 0. Основы](senkosan/pravila/pravila-servera/0.-osnovy.md)
     * [📃 1. Общение](senkosan/pravila/pravila-servera/1.-obshenie.md)
-    * [📃 2. Поведение на сервер](senkosan/pravila/pravila-servera/2.-povedenie-na-server.md)
+    * [📃 2. Поведение на сервере](senkosan/pravila/pravila-servera/2.-povedenie-na-server.md)
     * [📃 3. Приват](senkosan/pravila/pravila-servera/3.-privat.md)
-  * [😡 Правила персонала ](senkosan/pravila/pravila-personala/README.md)
+  * [😡 Правила персонала](senkosan/pravila/pravila-personala/README.md)
     * [4. Поведение модераторов на сервере](senkosan/pravila/pravila-personala/4.-povedenie-moderatorov-na-servere.md)
 
-## Дополнения&#x20;
+## Дополнения
 
 * [😅 Модификации](dopolneniya/modifikacii.md)
 * [😁 Ресурспак](dopolneniya/resurspak.md)
 * [✌️ История сервера](dopolneniya/istoriya-servera/README.md)
   * [Начало](dopolneniya/istoriya-servera/nachalo.md)
 
-## Уникальные предметы&#x20;
+## Уникальные предметы
 
 * [🧩 Уникальные предметы и крафты](unikalnye-predmety/unikalnye-predmety-i-krafty/README.md)
   * [Профиль игрока](unikalnye-predmety/unikalnye-predmety-i-krafty/profil-igroka.md)
@@ -35,15 +35,15 @@
   * [BreweryX](unikalnye-predmety/unikalnye-mekhaniki/breweryx.md)
   * [Головорез](unikalnye-predmety/unikalnye-mekhaniki/golovorez.md)
 
-## Игровой процесс&#x20;
+## Игровой процесс
 
 * [💖 РП (Role Play)](igrovoi-process/rp-role-play.md)
 * [💸 Экономика](igrovoi-process/ekonomika.md)
 
 ## Сотрудничество
 
-* [🤝 Сторонние сервера ](sotrudnichestvo/storonnie-servera.md)
-* [🤝 Контент мейкерами](sotrudnichestvo/kontent-meikerami.md)
+* [🤝 Сторонние сервера](sotrudnichestvo/storonnie-servera.md)
+* [🤝 Контентмейкерам](sotrudnichestvo/kontent-meikerami.md)
 
 ## Донат
 
