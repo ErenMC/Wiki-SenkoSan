@@ -30,10 +30,10 @@
   * [Невидимая рамка](unikalnye-predmety/unikalnye-predmety-i-krafty/nevidimaya-ramka.md)
   * [Невидимый свет](unikalnye-predmety/unikalnye-predmety-i-krafty/nevidimyi-svet.md)
 * [🤯 Уникальные механики](unikalnye-predmety/unikalnye-mekhaniki/README.md)
-  * [Маленькие изменения](unikalnye-predmety/unikalnye-mekhaniki/malenkie-izmeneniya.md)
-  * [Кастомные верёвки](unikalnye-predmety/unikalnye-mekhaniki/kastomnye-veryovki.md)
-  * [BreweryX](unikalnye-predmety/unikalnye-mekhaniki/breweryx.md)
-  * [Головорез](unikalnye-predmety/unikalnye-mekhaniki/golovorez.md)
+  * [🤏 Маленькие изменения](unikalnye-predmety/unikalnye-mekhaniki/malenkie-izmeneniya.md)
+  * [⛓️ Кастомные верёвки](unikalnye-predmety/unikalnye-mekhaniki/kastomnye-veryovki.md)
+  * [🍺 BreweryX](unikalnye-predmety/unikalnye-mekhaniki/breweryx.md)
+  * [📚 Зачарования](unikalnye-predmety/unikalnye-mekhaniki/zacharovaniya.md)
 
 ## Игровой процесс
 

@@ -18,12 +18,12 @@
 [breweryx.md](breweryx.md)
 {% endcontent-ref %}
 
-{% content-ref url="golovorez.md" %}
-[golovorez.md](golovorez.md)
+{% content-ref url="/broken/pages/z0TtxMGF4Ejq2sj7CJqS" %}
+[Broken link](/broken/pages/z0TtxMGF4Ejq2sj7CJqS)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
 
-{% content-ref url="golovorez.md" %}
-[golovorez.md](golovorez.md)
+{% content-ref url="/broken/pages/z0TtxMGF4Ejq2sj7CJqS" %}
+[Broken link](/broken/pages/z0TtxMGF4Ejq2sj7CJqS)
 {% endcontent-ref %}
