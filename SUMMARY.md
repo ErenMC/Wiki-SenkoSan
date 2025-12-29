@@ -25,15 +25,18 @@
 
 * [🧩 Уникальные предметы и крафты](unikalnye-predmety/unikalnye-predmety-i-krafty/README.md)
   * [Профиль игрока](unikalnye-predmety/unikalnye-predmety-i-krafty/profil-igroka.md)
-  * [Плюшевые игрушки](unikalnye-predmety/unikalnye-predmety-i-krafty/plyushevye-igrushki.md)
+  * [🧸 Плюшевые игрушки](unikalnye-predmety/unikalnye-predmety-i-krafty/plyushevye-igrushki.md)
   * [Обратный крафт плит](unikalnye-predmety/unikalnye-predmety-i-krafty/obratnyi-kraft-plit.md)
   * [Невидимая рамка](unikalnye-predmety/unikalnye-predmety-i-krafty/nevidimaya-ramka.md)
-  * [Невидимый свет](unikalnye-predmety/unikalnye-predmety-i-krafty/nevidimyi-svet.md)
+  * [💡 Невидимый свет](unikalnye-predmety/unikalnye-predmety-i-krafty/nevidimyi-svet.md)
 * [🤯 Уникальные механики](unikalnye-predmety/unikalnye-mekhaniki/README.md)
   * [🤏 Маленькие изменения](unikalnye-predmety/unikalnye-mekhaniki/malenkie-izmeneniya.md)
-  * [⛓️ Кастомные верёвки](unikalnye-predmety/unikalnye-mekhaniki/kastomnye-veryovki.md)
-  * [🍺 BreweryX](unikalnye-predmety/unikalnye-mekhaniki/breweryx.md)
+  * [📦 Восстановление натуральных сундуков](unikalnye-predmety/unikalnye-mekhaniki/vosstanovlenie-naturalnykh-sundukov.md)
+  * [🧊 Заморозка ИИ Жителей](unikalnye-predmety/unikalnye-mekhaniki/zamorozka-ii-zhitelei.md)
   * [📚 Зачарования](unikalnye-predmety/unikalnye-mekhaniki/zacharovaniya.md)
+  * [🍺 BreweryX](unikalnye-predmety/unikalnye-mekhaniki/breweryx.md)
+  * [⛓️ Кастомные верёвки](unikalnye-predmety/unikalnye-mekhaniki/kastomnye-veryovki.md)
+  * [💼 Ремонтный набор](unikalnye-predmety/unikalnye-mekhaniki/remontnyi-nabor.md)
 
 ## Игровой процесс
 
