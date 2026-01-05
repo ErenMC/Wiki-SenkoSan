@@ -46,7 +46,7 @@
 ## Сотрудничество
 
 * [🤝 Сторонние сервера](sotrudnichestvo/storonnie-servera.md)
-* [🤝 Контентмейкерам](sotrudnichestvo/kontent-meikerami.md)
+* [🤝 Контент-мейкерам](sotrudnichestvo/kontent-meikerami.md)
 
 ## Донат
 
