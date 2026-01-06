@@ -29,6 +29,7 @@
   * [Обратный крафт плит](unikalnye-predmety/unikalnye-predmety-i-krafty/obratnyi-kraft-plit.md)
   * [Невидимая рамка](unikalnye-predmety/unikalnye-predmety-i-krafty/nevidimaya-ramka.md)
   * [💡 Невидимый свет](unikalnye-predmety/unikalnye-predmety-i-krafty/nevidimyi-svet.md)
+  * [👁️ Око Незера](unikalnye-predmety/unikalnye-predmety-i-krafty/oko-nezera.md)
 * [🤯 Уникальные механики](unikalnye-predmety/unikalnye-mekhaniki/README.md)
   * [🤏 Маленькие изменения](unikalnye-predmety/unikalnye-mekhaniki/malenkie-izmeneniya.md)
   * [📦 Восстановление натуральных сундуков](unikalnye-predmety/unikalnye-mekhaniki/vosstanovlenie-naturalnykh-sundukov.md)
