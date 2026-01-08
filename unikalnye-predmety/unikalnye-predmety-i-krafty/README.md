@@ -2,8 +2,6 @@
 
 В этом разделе расписаны уникальные предметы/крафты и много чего ещё, что может вас заинтересовать.
 
-
-
 {% columns %}
 {% column width="50%" %}
 {% content-ref url="profil-igroka.md" %}
@@ -16,8 +14,8 @@
 {% endcolumn %}
 
 {% column width="50%" %}
-{% content-ref url="plyushevye-igrushki.md" %}
-[plyushevye-igrushki.md](plyushevye-igrushki.md)
+{% content-ref url="plyushevye-igrushki/" %}
+[plyushevye-igrushki](plyushevye-igrushki/)
 {% endcontent-ref %}
 
 {% content-ref url="nevidimaya-ramka.md" %}

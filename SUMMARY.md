@@ -25,7 +25,8 @@
 
 * [🧩 Уникальные предметы и крафты](unikalnye-predmety/unikalnye-predmety-i-krafty/README.md)
   * [Профиль игрока](unikalnye-predmety/unikalnye-predmety-i-krafty/profil-igroka.md)
-  * [🧸 Плюшевые игрушки](unikalnye-predmety/unikalnye-predmety-i-krafty/plyushevye-igrushki.md)
+  * [🧸 Плюшевые игрушки](unikalnye-predmety/unikalnye-predmety-i-krafty/plyushevye-igrushki/README.md)
+    * [Условие получение плюшки](unikalnye-predmety/unikalnye-predmety-i-krafty/plyushevye-igrushki/uslovie-poluchenie-plyushki.md)
   * [Обратный крафт плит](unikalnye-predmety/unikalnye-predmety-i-krafty/obratnyi-kraft-plit.md)
   * [Невидимая рамка](unikalnye-predmety/unikalnye-predmety-i-krafty/nevidimaya-ramka.md)
   * [💡 Невидимый свет](unikalnye-predmety/unikalnye-predmety-i-krafty/nevidimyi-svet.md)
