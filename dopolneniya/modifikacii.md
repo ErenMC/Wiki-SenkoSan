@@ -26,4 +26,4 @@ description: >-
 | Гамма                                                             | Любой вид авто-кликера                                                  |
 | Bedrock Miner                                                     | Seed-Cracker                                                            |
 | Принтер для Litematica                                            | X-ray модификации и ресурс-паки                                         |
-| [Freecam (LegacyFreecam)](https://modrinth.com/mod/legacyfreecam) | Модификации, выполняющие действия за игрока (Baritone и тому подобные). |
+| [Freecam (LegacyFreecam)](https://modrinth.com/mod/legacyfreecam) | Модификации, выполняющие действия за игрока (Baritone, Accurate Block Placement и тому подобные). |
