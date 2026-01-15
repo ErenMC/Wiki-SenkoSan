@@ -8,10 +8,16 @@
 
 ### Плюшевые игрушки администрации:
 
+<figure><img src="../../../.gitbook/assets/админы (1).png" alt=""><figcaption></figcaption></figure>
+
 #### Плюшевые игрушки популярных персонажей:
+
+<figure><img src="../../../.gitbook/assets/Плюшки.png" alt=""><figcaption></figcaption></figure>
 
 #### Плюшевые игрушки игроков которые имеют отдельную благодарность в развитии сервера:
 
-{% hint style="danger" %}
-Всё ещё в разработке :(
-{% endhint %}
+
+
+<figure><img src="../../../.gitbook/assets/Игроки 2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Игроки 1.png" alt=""><figcaption></figcaption></figure>
