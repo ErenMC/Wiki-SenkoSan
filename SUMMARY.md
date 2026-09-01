@@ -40,6 +40,11 @@
   * [🍺 BreweryX](unikalnye-predmety/unikalnye-mekhaniki/breweryx.md)
   * [⛓️ Кастомные верёвки](unikalnye-predmety/unikalnye-mekhaniki/kastomnye-veryovki.md)
   * [💼 Ремонтный набор](unikalnye-predmety/unikalnye-mekhaniki/remontnyi-nabor.md)
+* [🦊 Плагины семейства SenkoSan](unikalnye-predmety/plaginy-semeistva-senkosan/README.md)
+  * [SenkoPets System](unikalnye-predmety/plaginy-semeistva-senkosan/senkopets-system.md)
+  * [SenkoAuthLink](unikalnye-predmety/plaginy-semeistva-senkosan/senkoauthlink.md)
+  * [SenkoBarrier](unikalnye-predmety/plaginy-semeistva-senkosan/senkobarrier.md)
+  * [SenkoSocial](unikalnye-predmety/plaginy-semeistva-senkosan/senkosocial.md)
 
 ## Игровой процесс
 
